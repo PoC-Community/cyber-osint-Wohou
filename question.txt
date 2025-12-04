@@ -7,3 +7,8 @@ Step 3 - 48.0627755,-0.7580656
 Step 4 - 45°02'03.1"N 3°05'29.1"E
 
 Step 5 - Iphone 13 Pro / 2022:06:12 15:32:10 - Norvege (67°09'19.8"N 15°58'00.0"E)
+
+--- OSINT ----
+Step 1 - Marty Makefile
+
+Step 2 -
